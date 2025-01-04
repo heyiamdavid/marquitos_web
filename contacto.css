@@ -1,0 +1,33 @@
+h1 {
+    margin: 0;
+}
+
+section {
+    padding: 20px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+}
+
+h2 {
+    color: #35424a;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+
